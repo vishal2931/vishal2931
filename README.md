@@ -21,6 +21,6 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.herokuapp.com/user/vishal2931)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vishal-chavda2931)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-chavda2931)
 [![twitter](https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vishal__2931)
 
